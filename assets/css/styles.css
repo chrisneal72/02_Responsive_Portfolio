@@ -1,0 +1,22 @@
+body {
+    background-image: url("../images/bg.jpg");
+}
+
+.nav-container {
+    position: relative;
+    margin: 0 auto;
+    width: 960px;
+    height: 60px;
+}
+
+.name {
+    display: inline-block;
+    float: left;
+    width: 200px;
+    height: 80px;
+    color: #fff;
+    background-color: #4aaaa5;
+    font-size: 24px;
+    line-height: 60px;
+    text-align: center;
+}
