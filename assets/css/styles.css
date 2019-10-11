@@ -2,21 +2,103 @@ body {
     background-image: url("../images/bg.jpg");
 }
 
-.nav-container {
-    position: relative;
-    margin: 0 auto;
-    width: 960px;
+p {
+    text-align: left;
+    color: #777777;
+    font-size: 16px;
+}
+
+h1 {
+    color: lightslategrey;
+    font-size: 24px;
+}
+
+.header {
+    width: 100%;
     height: 60px;
+    background: #fff;
+}
+
+.my-navbartweeks{
+    padding: 0px;
+    margin: 0px;
 }
 
 .name {
     display: inline-block;
-    float: left;
     width: 200px;
-    height: 80px;
+    height: 60px;
     color: #fff;
     background-color: #4aaaa5;
     font-size: 24px;
     line-height: 60px;
     text-align: center;
+    margin: 0px;
+}
+
+.body-container {
+    background: #fff;
+    margin-top: 30px;
+    padding: 30px;
+}
+
+.hr {
+    background-color: lightslategrey;
+    height: 2px;
+}
+
+/* About Elements */
+
+.aboutimage {
+    float: left;
+    width: 250px;
+    margin: 0px 20px 20px 0px;
+}
+
+/* Portfolio Elements */
+
+.portcontainer {
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 0px 0px 20px 20px;
+    border: 1px solid black;
+}
+
+.portimage {
+    width: 200px;
+}
+
+.porttitle {
+    position: relative;
+    bottom: 50px;
+    width: 200px;
+    height: 35px;
+    color: #fff;
+    background-color: lightslategrey;
+    font-size: 18px;
+    line-height: 35px;
+    text-align: center;
+}
+
+/* Footer Styling */
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: lightgrey;
+    color: white;
+    text-align: center;
+}
+
+#footerid {
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #666666;
+    color: white;
+    font-size: 9px;
 }
