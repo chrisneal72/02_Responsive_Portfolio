@@ -1,8 +1,8 @@
-@media screen and (max-width: 600px){
+/* @media screen and (max-width: 600px){
     .header {
         visibility: hidden;
     }
-}
+} */
 
 body {
     background-image: url("../images/bg.jpg");
