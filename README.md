@@ -22,10 +22,10 @@ Contact page was the same, however much more simple.
 ​
 ### Screenshots
 ​
-![Image](assets/images/fullscreen.png)
+![Image](assets/images/fullscreen.jpg)
 ​
-![Image](assets/images/smallscreen.png)
+![Image](assets/images/smallscreen.jpg)
 ​
 ### Link
 Check it out! 
-https://shellylane.github.io/Bootstrap-Portfolio/
+https://chrisneal72.github.io/02_Responsive_Portfolio/
