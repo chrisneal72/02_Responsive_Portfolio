@@ -31,6 +31,24 @@ h1 {
     background-color: #fff;
 }
 
+.links {
+    text-decoration: none;
+    color: #777777;
+    text-shadow: 2px 2px 4px #fff;
+}
+
+.links:hover {
+    color: #c50000;
+    /* font-weight: bold; */
+    text-shadow: 2px 2px 4px #4aaaa5;
+}
+
+.links:focus {
+    color: #c50000;
+    /* font-weight: bold; */
+    text-shadow: 2px 2px 4px #4aaaa5;
+}
+
 .name {
     display: inline-block;
     width: 200px;

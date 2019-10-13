@@ -16,6 +16,8 @@ I then copied the body section of the previous homework. Day 2 we learned about 
 From there, the portfolio was the most complex so I work on that bag adding the Bootstrap column system.
 
 Contact page was the same, however much more simple.
+
+Yes, the images used on the portfolio page are mine, I took them.
 ​
 ### Technologies-Libraries
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
