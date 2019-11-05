@@ -16,6 +16,11 @@ p {
 
 h1 {
     color: lightslategrey;
+    font-size: 32px;
+}
+
+h2 {
+    color: lightslategrey;
     font-size: 24px;
 }
 
