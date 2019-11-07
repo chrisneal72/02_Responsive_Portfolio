@@ -104,7 +104,7 @@ h2 {
 
 .porttitle {
     position: relative;
-    bottom: 50px;
+    bottom: 75px;
     width: 300px;
     height: 35px;
     color: #fff;
@@ -112,6 +112,8 @@ h2 {
     font-size: 18px;
     line-height: 35px;
     text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
 }
 
 /* Contact Elements */
